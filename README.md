@@ -1,4 +1,4 @@
-This repo is clone of <a href="https://www.tiesdekok.com/calculatefwhr">Calculate fWHR</a>
+This repo is clone of <a href="https://github.com/TiesdeKok/fWHR_calculator">Calculate fWHR</a>
 
 Credit to the author <a href="https://github.com/TiesdeKok">TiesdeKok</a>
 
