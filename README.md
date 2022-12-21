@@ -1,3 +1,7 @@
+This repo is clone of <a href="https://www.tiesdekok.com/calculatefwhr">Calculate fWHR</a>
+
+Credit to the author <a href="https://github.com/TiesdeKok">TiesdeKok</a>
+
 # Facial width to height ratio (fWHR) calculator
 
 <h3>Just want to calculate the fWHR? Check my web app: <a href="https://www.tiesdekok.com/calculatefwhr">Calculate fWHR</a></h3>
